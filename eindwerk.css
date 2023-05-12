@@ -1,0 +1,120 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+  
+  body {
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+  }
+
+  p {
+    text-align: center;
+    color: aliceblue;
+    background-color: black;
+  }
+  
+  h2 {
+    background-color: #222;
+  }
+
+  h1{
+    font-weight: bold;
+    margin-bottom: 1rem;
+    text-align: center;
+    color: aliceblue;
+    margin-bottom: 5rem;
+  }
+  h2{
+    font-weight: bold;
+    margin-bottom: 1rem;
+    text-align: center;
+    color: aliceblue;
+    
+  }
+  h3{
+    font-weight: bold;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    margin-top: -15rem;
+  }
+  header {
+    background-color: white;
+    color: white;
+    padding: 1rem;
+    text-align: center;
+    
+  }
+  
+  nav {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    transition: 0.6s;
+    padding: 20px 100px;
+    background-color: #fff;
+  }
+  
+  nav ul {
+    display: flex;
+    list-style: none;
+  }
+  
+  nav li {
+    margin-right: 1rem;
+  }
+  
+  nav a {
+    color: red;
+    text-decoration: none;
+    padding: 0.5rem;
+  }
+  
+  nav a:hover {
+    background-color: aqua;
+  }
+  
+  
+  
+  
+  
+  ul {
+    columns: 3;
+    color: white;
+    text-decoration: underline;
+  }
+  
+  footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+    font-size: 16px;
+    margin-top: -5rem;
+ }
+ 
+ footer p {
+    margin: 0;
+    padding: 5px;
+ }
+ 
+  body {
+    background: linear-gradient(130deg, #000, #fff);
+    
+  }
+  #imgLogo{
+    height: 50px;
+    
+    
+  }
+ #home{
+  margin-bottom: 20rem;
+ }
+ #games{
+  margin-bottom: 20rem;
+ }
