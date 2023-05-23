@@ -1,0 +1,44 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contactpagina</title>
+    <link rel="stylesheet" href="Contacteren.css">
+<script>
+    function displayMessage() {
+        var message = document.getElementById("message");
+        message.innerText = "Bedankt voor uw vraag, we zullen u zo snel mogelijk contacteren.";
+        return false;
+    }
+</script>
+</head>
+<body>
+<div class="container">
+    <form onsubmit="return displayMessage();">
+        <label for="voornaam">Voornaam:</label>
+        <input type="text" id="voornaam" name="voornaam" required><br><br>
+    
+        <label for="naam">Naam:</label>
+        <input type="text" id="naam" name="naam" required><br><br>
+    
+        <label for="email">E-mail:</label>
+        <input type="email" id="email" name="email" required><br><br>
+        <br><br>
+        <label for="vraag">Vraag:</label><br>
+        <textarea id="vraag" name="vraag" rows="4" cols="50" required></textarea><br><br>
+    
+        <input type="submit" value="Verzenden">
+    </form>
+    <br><br>
+    <p id="message"></p>
+</div>
+<footer> 
+    <p class="copyright">
+        &copy; Assassin's Creed Series, Contactpagina
+      </p>
+</footer>
+</body>
+</html>
