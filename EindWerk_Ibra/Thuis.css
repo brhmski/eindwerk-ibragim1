@@ -1,0 +1,98 @@
+  *{
+    padding: 0;
+    margin: 0;
+  box-sizing: border-box;
+    font-family: sans-serif;
+  }
+  /*achtergrondkleur*/
+  body{
+        background-color: #3d3d3d;
+  }
+  /*opmaak hoofdtitel*/
+  h3{
+    font-size: 40px;
+      color: black;
+      margin-left: 450px;
+      background-color: aqua;
+    width: 550px;
+      text-transform: uppercase;
+}
+/*opmaakslijn*/
+  hr{
+    width: 1430px;
+    margin-left: 100px;
+    color: aqua;
+  height: 5px;
+    background-color: aqua;
+}
+/*opmaak titels*/
+  h4{
+  margin-top: 40px;
+  color: rgb(0, 0, 0);
+  font-size: 32px;
+  /*extra opmaak titels*/
+  }
+  #Titel1{
+      margin-left: 650px;
+  }
+  #Titel2{
+    margin-left: 650px;
+  }
+  #Titel3{
+margin-left: 600px;
+  }
+  #Titel4{
+  margin-left: 600px;
+  }
+  /*tekstkleur*/
+  p{
+    color: #fff;
+  font-size: 23px;
+    font-weight: bold;
+margin-top: 35px;
+    margin: 0px;
+    margin-left: 100px;
+  margin-right: 1000px;
+    }
+    /*opmaak navigatiebar*/
+  header {
+background: linear-gradient(to left, #4200fc, #a001fc);
+  padding: 40px;
+  text-align: center;
+  }
+  /*extra opmaak naviegatiebar*/
+  header a {
+  font-weight: bold;
+  color: #fff;
+text-decoration: none;
+  font-size: 24px;
+margin: 20px;
+  }
+  /*opmaak fotos*/
+  #Foto1 {
+width: 800px;
+  height: 500px;
+  margin-left: -270px;
+  margin-top: -950px;
+float: right;
+  margin-right: 50px;
+  }
+  #Foto2 {
+ width: 800px;
+  height: 500px;
+  margin-top: -500px;
+  margin-left: -270px;
+  float: right;
+margin-right: 50px;
+  }
+  /*opmaak footer*/
+footer{
+  background-color: #6200ff;
+ color: #fff;
+  font-weight: bold;
+padding: 30px;
+  text-align: center;
+  bottom: 0;
+    width: 100%;
+  margin-top: 110px;
+}

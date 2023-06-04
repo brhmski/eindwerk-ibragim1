@@ -1,0 +1,112 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    text-decoration: none;
+}
+header {
+    background: linear-gradient(to left, #4200fc, #a001fc);
+    padding: 40px;
+    text-align: center;
+  }
+  
+  header a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 24px;
+    margin: 20px;
+    font-weight: bold;
+  }
+body {
+    background-color: #0f051e;
+    color: #fff;
+}
+h1 {
+    color: aqua;
+    text-decoration: underline;
+    font-size: 40px;
+    margin-top: 40px;
+    text-align: left;
+    margin-left: 150px;
+}
+p{
+    font-weight: bold;
+    margin-left: 150px;
+    margin-right: 900px;
+    font-size: 20px;
+    margin-top: 20px;
+
+}
+
+footer{
+    background-color: #6200ff;
+    color: #fff;
+    font-weight: bold;
+    padding: 30px;
+    text-align: center;
+    bottom: 0;
+    width: 100%;
+  }
+img {
+    margin-top: -250px;
+    margin-right: 200px;
+    height: 400px;
+    float: right;
+    border-radius: 20px;
+}
+body{
+    background-color: #3d3d3d;
+}
+h3{
+    color: #000000;
+    font-size: 35px;
+    margin-top: 40px;
+    text-align: left;
+    margin-left: 150px;
+}
+#LinkDood{
+    font-weight: bold;
+    background-color: black;
+    color: white;
+    padding-right: 8px;
+    padding-left: 8px;
+    
+}
+#LinkTrailer{
+    font-weight: bold;
+    background-color: black;
+    color: white;
+    padding-right: 8px;
+    padding-left: 8px;
+}
+#EzioDood{
+    float: right;
+    margin-right: -850px;
+    width: 800px;
+    height: 500px;
+    border-radius: 20px;
+    margin-top: -370px;
+    padding-bottom: 0px;
+}
+a{
+    font-size: 25px;
+}
+#kleur{
+    color: rgb(255, 0, 0);
+}
+#Rev{
+    height: 500px;
+    width: 800px;
+    margin-right: 55px;
+    margin-top: -300px;
+}
+#WatMij{
+    text-decoration: underline red;
+}
+#Was{
+    text-decoration: underline red;
+}
+#alinea{
+    margin-bottom: 140px;
+}

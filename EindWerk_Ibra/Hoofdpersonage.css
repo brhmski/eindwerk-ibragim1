@@ -1,0 +1,90 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+header {
+    background: linear-gradient(to left, #4200fc, #a001fc);
+    padding: 40px;
+    text-align: center;
+  }
+  
+  header a {
+    font-weight: bold;
+    color: #fff;
+    text-decoration: none;
+    font-size: 24px;
+    margin: 20px;
+  }
+  /*achtergrondkleur*/
+  body{
+    background-color: #3d3d3d;
+  }
+  /*opmaakslijn*/
+  hr{
+    margin-top: 30px;
+    width: 1730px;
+    margin-left: 100px;
+    margin-right: 700px;
+    height: 5px;
+    background-color: white;
+  }
+  h1 {
+    margin-left: 100px;
+    background-color: white;
+    width: 310px;
+    height: 60px;
+    padding-top: 10px;
+    font-size: 36px;
+    font-weight: bold;
+    color: #000000; /* Rode kleur */
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Schaduweffect */
+    
+  }
+  h3 {
+    margin-left: 100px;
+    font-size: 24px;
+    font-weight: large;
+    color: #ff0000; /* Groene kleur */
+    margin-bottom: 10px; /* Ruimte onderaan */
+  }
+  p {
+    margin-left: 100px;
+    margin-right: 700px;
+    font-size: 19px;
+    line-height: 1.5;
+    color: #00d9ff; /* Blauwe kleur */
+    font-weight: bold;
+  }
+  #desmond{
+    float: right;
+    margin-top: 80px;
+    height: 700px;
+    width: 550px;
+    margin-right: 80px;
+  }
+  #desmondirl{
+    float: right;
+    margin-right: 500px;
+    height: 400px;
+    width: 500px;
+    margin-top: -60px;
+  }
+  #vergelijking2{
+    height: 400px;
+    width: 600px;
+    margin-left: 900px;
+    margin-top: -60px;
+
+  }
+  footer{
+    background-color: #6200ff;
+    color: #fff;
+    font-weight: bold;
+    padding: 30px;
+    text-align: center;
+    width: 100%;
+    margin-top: 20px;
+    bottom: 0;
+  }

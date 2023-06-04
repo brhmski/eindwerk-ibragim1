@@ -1,0 +1,112 @@
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+  text-decoration: none;
+}
+/*extra naviegatiebar opmaak*/
+header {
+  background: linear-gradient(to left, #4200fc, #a001fc);
+  padding: 40px;
+  text-align: center;
+}
+/*extra naviegatiebar opmaak*/
+header a {
+  font-weight: bold;
+  color: #fff;
+  text-decoration: none;
+  font-size: 24px;
+  margin: 20px;
+}
+body{
+  background-color: #3d3d3d;
+}
+h4 {
+  color: rgb(255, 255, 255);
+  margin-bottom: 100px;
+  margin-top: 80px;
+  text-align: center;
+  font-size: 25px;
+}
+.container {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+form {
+  text-align: center;
+}
+
+label {
+  color: #0004fc;
+  font-weight: bold;
+  display: block;
+  margin-bottom: 10px;
+  font-size: 25px;
+    
+}
+
+input[type="text"],
+input[type="email"],
+textarea {
+  width: 100%;
+  padding: 10px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  margin-bottom: 20px;
+  font-size: 16px;
+}
+
+textarea {
+  height: 150px;
+}
+
+input[type="submit"] {
+  padding: 15px 35px;
+  background:#4200fc;
+  border-radius: 30px;
+  color: #fff;
+  font-size: 18px;
+  border: none;
+  cursor: pointer;
+  font-size: 25px;
+  
+}
+#foto1{
+  float: left;
+  margin-top: -850px;
+  margin-left: 70px;
+  height: 800px;
+  width: 800px;
+  border-radius: 20px;
+}
+#foto2{
+  float: right;
+  margin-top: -850px;
+  margin-right: 70px;
+  height: 800px;
+  width: 800px;
+  border-radius: 20px;
+}
+
+footer{
+  background-color: #6200ff;
+  color: #fff;
+  font-weight: bold;
+  padding: 30px;
+  text-align: center;
+  bottom: 0;
+  width: 100%;
+  margin-top: 100px;
+}
+/*Javascript opmaak*/
+#message{
+  text-align: center;
+  margin-top: 20px;
+  font-weight: bold;
+  color: #ffffff;
+  font-size: 18px;
+}

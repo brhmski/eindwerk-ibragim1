@@ -1,0 +1,177 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    text-decoration: none;
+}
+header {
+  background: linear-gradient(to left, #4200fc, #a001fc);
+  padding: 40px;
+  text-align: center;
+}
+
+header a {
+  font-weight: bold;
+  color: #fff;
+  text-decoration: none;
+  font-size: 24px;
+  margin: 20px;
+}
+h4{
+  margin-top: 30px;
+  color: rgb(0, 0, 0);
+  font-size: 30px; 
+  text-align: center;
+  margin-right: 80px;
+  margin-left: 40px;
+  background-color: rgb(255, 255, 255);
+}
+  body{
+    background-color: #3d3d3d;
+  }
+p {
+    padding-top: 25px;
+    text-align: center;
+    margin-left: 100px;
+    margin-right: 100px;
+    font-weight: bold;
+    color: aliceblue;
+}
+
+a {
+    color: #fff;
+    text-decoration: none;
+}
+footer{
+  background-color: #6200ff;
+  color: #fff;
+  font-weight: bold;
+  padding: 30px;
+  text-align: center;
+  bottom: 0;
+  width: 100%;
+}
+/*fotos en videos van games*/
+ #foto1{
+  height: 600px;
+  width: 800px;
+  margin-left: 15px;
+ }
+ #foto2{
+  height: 600px;
+  width: 800px;
+ }
+ #video3{
+  height: 600px;
+  width: 900px;
+ }
+
+#foto4{
+ height: 600px;
+ width: 800px;
+ margin-left: 15px;
+}
+#video5{
+ height: 600px;
+ width: 800px;
+}
+#foto6{
+ height: 600px;
+ width: 900px;
+}
+#foto7{
+  height: 600px;
+  width: 800px;
+  margin-left: 15px;
+}
+#foto8{
+  height: 600px;
+  width: 800px;
+}
+#video9{
+  height: 600px;
+  width: 900px;
+}
+#foto10{
+  height: 600px;
+  width: 800px;
+  margin-left: 15px;
+}
+#video11{
+  height: 600px;
+  width: 800px;
+}
+#foto12{
+  height: 600px;
+  width: 900px;
+}
+#video13{
+  height: 600px;
+  width: 800px;
+}
+#foto14{
+  height: 600px;
+  width: 800px;
+}
+#foto15{
+  height: 600px;
+  width: 900px;
+  margin-left: 15px;
+}
+#foto12{
+  height: 600px;
+  width: 900px;
+}
+#foto16{
+  height: 600px;
+  width: 800px;
+  margin-left: 15px;
+}
+#foto17{
+  height: 600px;
+  width: 800px;
+}
+#video18{
+  height: 600px;
+  width: 900px;
+}
+#foto19{
+  height: 600px;
+  width: 800px;
+  margin-left: 15px;
+}
+#foto20{
+  height: 600px;
+  width: 800px;
+}
+#video21{
+  height: 600px;
+  width: 900px;
+}
+#foto22{
+  height: 600px;
+  width: 900px;
+  margin-left: 15px;
+}
+#foto23{
+  height: 600px;
+  width: 800px;
+}
+#video24{
+  height: 600px;
+  width: 800px;
+}
+#foto25{
+  height: 600px;
+  width: 900px;
+  margin-left: 15px;
+}
+#video26{
+  height: 600px;
+  width: 800px;
+}
+#foto27{
+  height: 600px;
+  width: 800px;
+}
